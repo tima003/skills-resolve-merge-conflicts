@@ -1,3 +1,5 @@
-# References
+my-resume
+These are my personal and academic references.
+More info to come.
 
-* octocat 1 😈
+ main
